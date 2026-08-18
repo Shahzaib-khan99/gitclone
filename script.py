@@ -59,7 +59,7 @@ GitHub: https://github.com/aurafarmerone
 
 # -------------------------------
 # Credit Banner (End)
-# -------------------------------
+# -------------------------------------------
 def show_end_credit():
     print(r"""
           
