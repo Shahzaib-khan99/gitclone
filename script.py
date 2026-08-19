@@ -5,14 +5,14 @@ import sys
 import time
 from datetime import datetime, timedelta
 
-# ==============================================
+# ====================================================
 # GitHub Contribution Graph Hack
 #
 # Created by Aura Farmer
 # GitHub: https://github.com/aurafarmerone
 #
 # If you like this project, give it a ⭐
-# ==============================================
+# ====================================================
 
 PATTERN_FILE = "pattern.json"
 FILE_PATH = "info.txt"
