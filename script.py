@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 # GitHub: https://github.com/aurafarmerone
 #
 # If you like this project, give it a ⭐
-# ====================================================
+# ==========================================================
 
 PATTERN_FILE = "pattern.json"
 FILE_PATH = "info.txt"
