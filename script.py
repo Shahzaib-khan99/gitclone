@@ -152,9 +152,9 @@ def make_commits_from_pattern(year):
     git_push()
 
 
-# --------------------------------
+# ---------------------------------
 # Entry Point
-# --------------------------------
+# ---------------------------------
 if __name__ == "__main__":
     loading_animation(3)
     show_start_credit()
