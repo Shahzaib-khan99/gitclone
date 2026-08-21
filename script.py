@@ -77,7 +77,7 @@ def show_end_credit():
 👉 https://github.com/aurafarmerone/github-contribution-graph-hack
 
 Made with ❤️  by Aura Farmer
----------------------------------------
+----------------------------------------
 """)
 
 
