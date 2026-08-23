@@ -84,7 +84,7 @@ Made with ❤️  by Aura Farmer
 
 # ---------------------------------
 # Git Commit (FIXED)
-# ---------------------------------
+# ----------------------------------
 def git_commit(message, commit_date):
     subprocess.run(["git", "add", FILE_PATH], check=True)
 
