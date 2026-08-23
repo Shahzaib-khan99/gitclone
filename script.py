@@ -134,7 +134,7 @@ def make_commits_from_pattern(year):
     for row_idx, row in enumerate(pattern):
         for col_idx, char in enumerate(row):
             if char == " ":
-                continue  # empty pixel
+                continue  # empty pixels
 
             commit_date = start_date + timedelta(
                 weeks=col_idx,
