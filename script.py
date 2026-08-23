@@ -20,9 +20,9 @@ FILE_PATH = "info.txt"
 COMMITS_PER_PIXEL = 5   # lighter than darkest green
 
 
-# ---------------------------------
+# --------------------------------
 # Loading Animation (3 seconds)
-# ---------------------------------
+# --------------------------------
 def loading_animation(duration=3):
     animation = "|/-\\"
     end_time = time.time() + duration
