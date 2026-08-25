@@ -43,7 +43,7 @@ def loading_animation(duration=3):
 
 # --------------------------------
 # Credit Banner (Start)
-# --------------------------------
+# ---------------------------------
 def show_start_credit():
     print(r"""
           
