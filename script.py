@@ -82,7 +82,7 @@ Made with ❤️  by Aura Farmer
 
 
 
-# ---------------------------------
+# ----------------------------------
 # Git Commit (FIXED)
 # ----------------------------------
 def git_commit(message, commit_date):
