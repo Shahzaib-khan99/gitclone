@@ -5,7 +5,7 @@ import sys
 import time
 from datetime import datetime, timedelta 
   
-# =================================================
+# ================================================= 
 # GitHub Contribution Graph Hack  
 #
 # Created by Aura Farmer
