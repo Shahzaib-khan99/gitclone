@@ -37,7 +37,7 @@ def loading_animation(duration=3):
         time.sleep(0.1)
         sys.stdout.write("\b")
         i += 1
-
+ 
     print("☑️")
 
 
