@@ -27,7 +27,7 @@ def loading_animation(duration=3):
     animation = "|/-\\"
     end_time = time.time() + duration
     i = 0
-
+ 
     sys.stdout.write("\nInitializing GitHub Pattern Committer ")
     sys.stdout.flush()
 
