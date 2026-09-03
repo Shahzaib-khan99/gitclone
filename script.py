@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 
 PATTERN_FILE = "pattern.json"
 FILE_PATH = "info.txt"
-
+ 
 COMMITS_PER_PIXEL = 5   # lighter than darkest green
  
 
