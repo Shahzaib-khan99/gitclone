@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
   
 # =================================================  
 # GitHub Contribution Graph Hack      
-# 
+#  
 # Created by Aura Farmer
 # GitHub: https://github.com/aurafarmerone  
 # 
