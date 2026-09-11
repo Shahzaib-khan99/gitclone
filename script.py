@@ -26,7 +26,7 @@ COMMITS_PER_PIXEL = 5   # lighter than darkest green
 def loading_animation(duration=3):
     animation = "|/-\\"
     end_time = time.time() + duration
-    i = 0
+    i = 0 
  
     sys.stdout.write("\nInitializing GitHub Pattern Committer ")
     sys.stdout.flush()
