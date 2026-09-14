@@ -39,7 +39,7 @@ def loading_animation(duration=3):
         i += 1
  
     print("☑️")
-
+ 
 
 # ----------------------------------
 # Credit Banner (Start)
