@@ -132,7 +132,7 @@ def make_commits_from_pattern(year):
     start_date = first_sunday(year)
 
     for row_idx, row in enumerate(pattern):
-        for col_idx, char in enumerate(row):
+        for col_idx, char in enumerate(row): 
             if char == " ":
                 continue  # empty pixels
 
